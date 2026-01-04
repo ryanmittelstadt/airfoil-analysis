@@ -17,7 +17,7 @@ The geometry is plotted immediately to verify that the airfoil was imported and 
 <p align="center">
   <img src="https://i.imgur.com/8UOwnuo.png" height="80%" width="80%" alt="NACA SC(2)-0714 airfoil geometry"/>
   <br />
-  <i>Figure 9.0: NACA SC(2)-0714 airfoil geometry</i>
+  <i>Figure 1: NACA SC(2)-0714 airfoil geometry</i>
 </p>
 
 ## Step 2: Discretizing the Airfoil into Panels
@@ -34,7 +34,7 @@ These geometric definitions follow the conventions shown in the report and are c
 <p align="center">
   <img src="https://i.imgur.com/vVEG4GU.png" height="80%" width="80%" alt="Panel geometry and definitions"/>
   <br />
-  <i>Figure 2.3: Panel geometry, control points, and angle definitions</i>
+  <i>Figure 2: Panel geometry, control points, and angle definitions</i>
 </p>
 
 ## Step 3: Defining Flow Conditions
@@ -53,7 +53,7 @@ The no-penetration boundary condition is enforced at every control point, produc
 <p align="center">
   <img src="https://i.imgur.com/NxMMXxl.png" height="80%" width="80%" alt="Source panel equations"/>
   <br />
-  <i>Figure 2.1: Key source panel equations used in the program</i>
+  <i>Figure 3: Key source panel equations used in the program</i>
 </p>
 
 ## Step 5: Computing Velocity and Pressure
